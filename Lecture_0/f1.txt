@@ -1,0 +1,3 @@
+This is content of f1 file.
+this is second line of the given file.
+this is third line.
